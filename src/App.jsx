@@ -16,7 +16,7 @@ function App() {
       </header>
 
       <ButtonComponent text="Click me" />
-      <ImageComponent src={logo} className="App-logo" alt="img logo react"/>
+      <ImageComponent src={logo} className="App-logo " alt="img logo react" width="200"/>
     </div>
   );
 }
